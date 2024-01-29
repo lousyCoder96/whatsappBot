@@ -20,7 +20,7 @@ var telegram = {
       contentType: "image/png",
     },
   },
-  token: "1064786794:AAGbY3QLZ6a2BKbNZ_M9Z0MsUndzvxRSNDc",
+  token: "",
   channelId: "epic2",
   SECRET_KEY: null,
   users: null,
